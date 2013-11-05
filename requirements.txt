@@ -1,0 +1,14 @@
+Django==1.5.5
+PIL==1.1.7
+South==0.8.2
+bz2file==0.95
+django-tastypie==0.10.0
+geopy==0.95.1
+gnupg==1.2.3
+lxml==3.2.3
+psutil==1.1.2
+psycopg2==2.5.1
+python-dateutil==2.2
+simplekml==1.2.3
+six==1.4.1
+wsgiref==0.1.2
